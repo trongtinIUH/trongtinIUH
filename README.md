@@ -40,6 +40,11 @@
 ## 📊 GitHub Stats
 ![Trọng Tín's GitHub stats](https://github-readme-stats.vercel.app/api?username=trongtinIUH&show_icons=true&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trongtinIUH&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trongtinIUH&layout=compact&theme=radical)
+
+
 ## ✍️ Random Dev Quote
 ![Quotes](https://quotes-github-readme.vercel.app/api?quotes)
 
