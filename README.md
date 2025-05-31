@@ -1,7 +1,7 @@
 # Hi there, I'm Trọng Tín 👋
 
 ## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/your-facebook-link)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/T.L.J.2018)
 
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
