@@ -32,7 +32,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo= numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello)
