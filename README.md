@@ -44,16 +44,11 @@ I focus on **Full-stack Development** with a strong emphasis on Backend architec
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trongtinIUH&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trongtinIUH&layout=compact&theme=radical&hide_border=true" height="180" alt="languages" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trongtinIUH&show_icons=true&theme=radical)
 
-<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trongtinIUH&layout=compact&theme=radical)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trongtinIUH&theme=radical&hide_border=true" alt="streak" />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trongtinIUH&theme=radical)
 
 ---
 
