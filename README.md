@@ -43,24 +43,6 @@ I focus on **Full-stack Development** with a strong emphasis on Backend architec
 ---
 
 ### 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=trongtinIUH&show_icons=true&theme=radical&v=2026" alt="GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trongtinIUH&layout=compact&theme=radical&v=2026" alt="Top Langs" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=trongtinIUH&theme=radical&v=2026" alt="GitHub Streak" />
-
-</div>
----
-
 <div align="center">
   <i>"Code maintains itself if you write it cleanly enough."</i>
 </div>
